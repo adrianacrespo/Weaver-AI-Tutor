@@ -7,14 +7,14 @@ Weaver é um agente dedicado a guiar estudantes e interessados em Azure e inteli
 Bot nascido de minha própria necessidade de estudar inteligência artificial e Azure, e da minha completa frustração com os modelos comuns quando suas respostas se confundiam (e me confundiam) entre diferentes tecnologias. Conforme eu aprendia a aprimorá-lo, ele foi se tornando um companheiro mais e mais útil em meus estudos, acelerando meu aprendizado e tornando tudo mais divertido e interessante. 
 
 
-## Key features:
+## Key features
 - Orientação específica sobre serviços Azure, assistência na criação de recursos, identificação de erros, otimização de custos
 - Respostas calibradas para promover o aprendizado independente e personalizado
 - Preocupação com o uso responsável da IA, apoiado por uma Knowledge Base rigorosa
 - Envio de respostas mais aprofundadas (estruturadas em HMTL, em prol da legibilidade) por email, a pedido do usuário
 
 
-## Público-alvo:
+## Público-alvo
 - Estudantes focados em Azure   
 - Professores e mentores buscando auxílio na produção de aulas e materiais didáticos 
 - Usuários experientes com dúvidas sobre o novo portal da Azure Foundry
