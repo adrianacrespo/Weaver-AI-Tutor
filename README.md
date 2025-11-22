@@ -31,29 +31,40 @@ Bot nascido de minha própria necessidade de estudar inteligência artificial e 
 ## Testes
 Incluídos desde o começo do projeto, os casos de teste partiram das Key Features, do Público-alvo e dos Casos de Uso para avaliar e comparar a eficiência de diferentes iterações do bot. Alguns dos casos de teste utilizados:
 
-- Caso de Teste 1: **Respostas Relevantes e Atualizadas**
+### Caso de Teste 1: **Respostas Relevantes e Atualizadas**
     - Objetivo: Testar a habilidade do bot de buscar respostas relevantes na Knowledge Base.
     - Entrada: "Quais as diferenças entre as versões nova e clássica do Azure Foundry?"
     - Ação Esperada: O bot deve buscar na Knowledge Base e responder comparando as versões do Azure AI Foundry.
     - Resultado Esperado: Uma resposta com informações atualizadas sobre as versões corretas do software.
+ 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/32d8c600-a406-453b-8ba4-0d45913e7da3" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/0965659f-ea3d-4a6c-8014-8a861f239be9" />
 
-- Caso de Teste 2: **Envio de Email**
+### Caso de Teste 2: **Envio de Email**
     - Objetivo: Avaliar a funcionalidade de envio de email.
     - Entrada: "Me envie por email um plano detalhado de uma única aula universitária sobre ética e responsabilidade na IA, para alunos do último ano de ciências da computação, com discussões recentes e relevantes em 2025."
     - Ação Esperada: O bot gera, converte para HTML e envia por email um plano de aula sobre o tema pedido. Confirma o envio e sumariza o email.
     - Resultado Esperado: Um email com um plano de aula estruturado, lógico e legível. Ums resposta confirmando e sumarizando o email.
+ 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/ee007625-5f2b-41ce-9870-da72a0d9b770" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/4dc06da2-ee13-4782-bec2-3cfc4749d2f5" />
+<img width="1322" height="297" alt="Image" src="https://github.com/user-attachments/assets/89e29ac0-b938-43d4-9df1-d7f789be89ab" />
 
-- Caso de Teste 3: **Personalização de Resposta - Júnior**
+### Caso de Teste 3: **Personalização de Resposta - Júnior**
     - Objetivo: Testar a personalização das respostas de acordo com o nível de experiência do usuário.
     - Entrada: "Olá, tudo bom? Sou nova por aqui 🌟 Como posso criar uma Máquina Virtual no Azure?"
     - Ação Esperada: O bot deve responder corretamente e de acordo com o contexto apresentado, de uma iniciante.
     - Resultado Esperado: Resposta com informações adequadas a iniciantes, começando do começo.
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e9c18c84-75ec-42e2-a7a9-dc9d63502501" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/93643f92-5b00-4fed-8e0c-8431eb554fb7" />
 
-- Caso de Teste 4: **Personalização da Resposta - Senior**
+### Caso de Teste 4: **Personalização da Resposta - Senior**
     - Objetivo: Testar a personalização das respostas de acordo com o nível de experiência do usuário.
     - Entrada: "Como você lidaria com a governança e compliance ao implantar VMs e quais ferramentas do Azure ajudariam neste cenário?"
     - Ação Esperada: O bot deve responder corretamente e de acordo com o contexto apresentado, de uma veterana.
     - Resultado Esperado: Resposta com informações adequadas a seniors, presumindo conhecimento prévio.
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/91419f3d-88ca-4907-92f8-a7a01ff7e346" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/ba57af2c-2768-4a9f-9cf2-ef97d6a8362d" />
 
 
 
