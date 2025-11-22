@@ -118,7 +118,7 @@ Incluídos desde o começo do projeto, os casos de teste partiram das Key Featur
 2. Se o usuário aceita, ou sempre que o próprio usuário pedir pelo envio de um email
 3. Pede o email do usuário, caso já não saiba
 4. Gera o conteúdo formatado em HTML
-5. Chama emailSending_Tool, que envia o conteúdo formatado para o email informado
+5. Chama emailSending_Tool, produzido via Logic Apps, que envia o conteúdo formatado para o email informado
 6. Confirma o envio no chat, apresentando um sumário do conteúdo enviado
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c1edab96-62bf-4c69-8571-5da63dbda2bc" />
