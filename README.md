@@ -31,29 +31,29 @@ Bot nascido de minha própria necessidade de estudar inteligência artificial e 
 ## Testes
 Incluídos desde o começo do projeto, os casos de teste partiram das Key Features, do Público-alvo e dos Casos de Uso para avaliar e comparar a eficiência de diferentes iterações do bot. Alguns dos casos de teste utilizados:
 
-Caso de Teste 1: Respostas Relevantes e Atualizadas
-    Objetivo: Testar a habilidade do bot de buscar respostas relevantes na Knowledge Base.
-    Entrada: "Quais as diferenças entre as versões nova e clássica do Azure Foundry?"
-    Ação Esperada: O bot deve buscar na Knowledge Base e responder comparando as versões do Azure AI Foundry.
-    Resultado Esperado: Uma resposta com informações atualizadas sobre as versões corretas do software.
+- Caso de Teste 1: **Respostas Relevantes e Atualizadas**
+    - Objetivo: Testar a habilidade do bot de buscar respostas relevantes na Knowledge Base.
+    - Entrada: "Quais as diferenças entre as versões nova e clássica do Azure Foundry?"
+    - Ação Esperada: O bot deve buscar na Knowledge Base e responder comparando as versões do Azure AI Foundry.
+    - Resultado Esperado: Uma resposta com informações atualizadas sobre as versões corretas do software.
 
-Caso de Teste 2: Envio de Email
-    Objetivo: Avaliar a funcionalidade de envio de email.
-    Entrada: "Me envie por email um plano detalhado de uma única aula universitária sobre ética e responsabilidade na IA, para alunos do último ano de ciências da computação, com discussões recentes e relevantes em 2025."
-    Ação Esperada: O bot gera, converte para HTML e envia por email um plano de aula sobre o tema pedido. Confirma o envio e sumariza o email.
-    Resultado Esperado: Um email com um plano de aula estruturado, lógico e legível. Ums resposta confirmando e sumarizando o email.
+- Caso de Teste 2: **Envio de Email**
+    - Objetivo: Avaliar a funcionalidade de envio de email.
+    - Entrada: "Me envie por email um plano detalhado de uma única aula universitária sobre ética e responsabilidade na IA, para alunos do último ano de ciências da computação, com discussões recentes e relevantes em 2025."
+    - Ação Esperada: O bot gera, converte para HTML e envia por email um plano de aula sobre o tema pedido. Confirma o envio e sumariza o email.
+    - Resultado Esperado: Um email com um plano de aula estruturado, lógico e legível. Ums resposta confirmando e sumarizando o email.
 
-Caso de Teste 3: Personalização da Resposta - Júnior 
-    Objetivo: Testar a personalização das respostas de acordo com o nível de experiência do usuário.
-    Entrada: "Olá, tudo bom? Sou nova por aqui 🌟 Como posso criar uma Máquina Virtual no Azure?"
-    Ação Esperada: O bot deve responder corretamente e de acordo com o contexto apresentado, de uma iniciante.
-    Resultado Esperado: Resposta com informações adequadas a iniciantes, começando do começo.
+- Caso de Teste 3: **Personalização de Resposta - Júnior**
+    - Objetivo: Testar a personalização das respostas de acordo com o nível de experiência do usuário.
+    - Entrada: "Olá, tudo bom? Sou nova por aqui 🌟 Como posso criar uma Máquina Virtual no Azure?"
+    - Ação Esperada: O bot deve responder corretamente e de acordo com o contexto apresentado, de uma iniciante.
+    - Resultado Esperado: Resposta com informações adequadas a iniciantes, começando do começo.
 
-Caso de Teste 4: Personalização da Resposta - Senior  
-    Objetivo: Testar a personalização das respostas de acordo com o nível de experiência do usuário.
-    Entrada: "Como você lidaria com a governança e compliance ao implantar VMs e quais ferramentas do Azure ajudariam neste cenário?"
-    Ação Esperada: O bot deve responder corretamente e de acordo com o contexto apresentado, de uma veterana.
-    Resultado Esperado: Resposta com informações adequadas a seniors, presumindo conhecimento prévio.
+- Caso de Teste 4: **Personalização da Resposta - Senior**
+    - Objetivo: Testar a personalização das respostas de acordo com o nível de experiência do usuário.
+    - Entrada: "Como você lidaria com a governança e compliance ao implantar VMs e quais ferramentas do Azure ajudariam neste cenário?"
+    - Ação Esperada: O bot deve responder corretamente e de acordo com o contexto apresentado, de uma veterana.
+    - Resultado Esperado: Resposta com informações adequadas a seniors, presumindo conhecimento prévio.
 
 
 
@@ -112,14 +112,14 @@ Caso de Teste 4: Personalização da Resposta - Senior
 
 
 ## Knowledge Base
-Atualizar e melhorar as respostas do Weaver nos temas Azure e IA responsável. Contém os seguintes documentos:
-    2025 Responsible AI Transparency Report. https://www.microsoft.com/en-us/corporate-responsibility/responsible-ai-transparency-report/
-    Ethics guidelines for trustworthy AI. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
-    Fairlearn: a toolkit for assessing and improving fairness in ai. https://fairlearn.org/v0.13/user_guide/further_resources.html 
-    Guidance for Developers and Deployers New to Public Engagement. https://partnershiponai.org/guidance-for-inclusive-ai-new-practitioners/ 
-    Recommendation on the Ethics of Artificial Intelligence. https://unesdoc.unesco.org/ark:/48223/pf0000381137 
-    What is Microsoft Foundry (classic)? https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry?view=foundry-classic 
-    What is Microsoft Foundry (new)? https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry?view=foundry
+Para atualizar e melhorar as respostas do Weaver nos temas Azure e IA responsável. Contém os seguintes documentos:
+- 2025 Responsible AI Transparency Report. https://www.microsoft.com/en-us/corporate-responsibility/responsible-ai-transparency-report
+- Ethics guidelines for trustworthy AI. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
+- Fairlearn: a toolkit for assessing and improving fairness in ai. https://fairlearn.org/v0.13/user_guide/further_resources.html
+- Guidance for Developers and Deployers New to Public Engagement. https://partnershiponai.org/guidance-for-inclusive-ai-new-practitioners/
+- Recommendation on the Ethics of Artificial Intelligence. https://unesdoc.unesco.org/ark:/48223/pf0000381137
+- What is Microsoft Foundry (classic)? https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry?view=foundry-classic
+- What is Microsoft Foundry (new)? https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry?view=foundry
 
 
 ## Roadmap
@@ -133,7 +133,9 @@ Estou aberta a sugestões de todos os que chegaram até aqui! Envie para dricres
 
 ## Agradecimentos e créditos
 Projeto realizado com o pontual auxílio do próprio Weaver, rodando no gpt-4o-mini e no Grok.
+
 Agradeço aos mentores e às companheiras do projeto de mentoria Azure Frontier Girls. Uma honra estar com vocês nesta jornada.
+
 Agradeço a meus companheiros de vida pela inspiração constante.
 
 
