@@ -121,6 +121,8 @@ Incluídos desde o começo do projeto, os casos de teste partiram das Key Featur
 5. Chama emailSending_Tool, que envia o conteúdo formatado para o email informado
 6. Confirma o envio no chat, apresentando um sumário do conteúdo enviado
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c1edab96-62bf-4c69-8571-5da63dbda2bc" />
+
 
 ## Knowledge Base
 Para atualizar e melhorar as respostas do Weaver nos temas Azure e IA responsável. Contém os seguintes documentos:
@@ -131,6 +133,8 @@ Para atualizar e melhorar as respostas do Weaver nos temas Azure e IA responsáv
 - Recommendation on the Ethics of Artificial Intelligence. https://unesdoc.unesco.org/ark:/48223/pf0000381137
 - What is Microsoft Foundry (classic)? https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry?view=foundry-classic
 - What is Microsoft Foundry (new)? https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry?view=foundry
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/22b6f3e9-b913-4d7c-95e0-e951bc3aa6a6" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c233b67c-413b-46bd-b11d-fe74a54285cc" />
 
 
 ## Roadmap
@@ -143,7 +147,7 @@ Estou aberta a sugestões de todos os que chegaram até aqui! Envie para dricres
 
 
 ## Agradecimentos e créditos
-Projeto realizado com o pontual auxílio do próprio Weaver, rodando no gpt-4o-mini e no Grok.
+Projeto realizado com o pontual auxílio do próprio Weaver, rodando no gpt-4o-mini e no Grok 4 (xAI).
 
 Agradeço aos mentores e às companheiras do projeto de mentoria Azure Frontier Girls. Uma honra estar com vocês nesta jornada.
 
