@@ -147,7 +147,7 @@ Estou aberta a sugestões de todos os que chegaram até aqui! Envie para dricres
 
 
 ## Agradecimentos e créditos
-Projeto realizado com o pontual auxílio do próprio Weaver, rodando no gpt-4o-mini e no Grok 4 (xAI).
+Projeto realizado com o pontual auxílio do próprio Weaver, rodando no gpt-4o-mini e no Grok 4 (xAI), a partir do [Azure AI Foundry](https://ai.azure.com/).
 
 Agradeço aos mentores e às companheiras do projeto de mentoria Azure Frontier Girls. Uma honra estar com vocês nesta jornada.
 
