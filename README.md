@@ -2,6 +2,8 @@
 ## Overview
 Weaver é um agente dedicado a guiar estudantes e interessados em Azure e inteligência artificial. Oferece respostas atualizadas, adaptadas à experiência técnica do usuário. Envia respostas longas por email.
 
+Por: Adriana Crespo Ruco
+
 
 ## História
 Bot nascido de minha própria necessidade de estudar inteligência artificial e Azure, e da minha completa frustração com os modelos comuns quando suas respostas se confundiam (e me confundiam) entre diferentes tecnologias. Conforme eu aprendia a aprimorá-lo, ele foi se tornando um companheiro mais e mais útil em meus estudos, acelerando meu aprendizado e tornando tudo mais divertido e interessante. 
