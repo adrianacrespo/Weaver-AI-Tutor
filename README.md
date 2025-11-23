@@ -141,7 +141,7 @@ Para atualizar e melhorar as respostas do Weaver nos temas Azure e IA responsáv
 Para que outros usuários possam acessar o bot, o próximo passo no projeto seria a conexão dele com, por exemplo, WhatsApp ou Microsoft Teams. Passos seguintes poderiam incluir:
 1. o estabelecimento de um fluxo de feedback mais sólido entre bot e usuário; 
 2. a produção e envio de arquivos pdf por email; e 
-3. a conexão a serviços cognitivos, como Text Analytics e QnA Maker, para aprimoramento das respostas.
+3. a conexão a outros serviços, como Language Services e Machine Learning, para o constante aprimoramento das respostas.
 
 Estou aberta a sugestões de todos os que chegaram até aqui! Envie para dricrespo@gmail.com comentários, críticas e histórias de uso. Seu feedback manterá o Weaver ativo e relevante.
 
@@ -149,7 +149,7 @@ Estou aberta a sugestões de todos os que chegaram até aqui! Envie para dricres
 ## Agradecimentos e créditos
 Projeto realizado com o pontual auxílio do próprio Weaver, rodando no gpt-4o-mini e no Grok 4 (xAI), a partir do [Azure AI Foundry](https://ai.azure.com/).
 
-Agradeço aos mentores e às companheiras do projeto de mentoria Azure Frontier Girls. Uma honra estar com vocês nesta jornada.
+Agradeço aos mentores e às companheiras do projeto de mentoria [Azure Frontier Girls](https://www.maismulheres.tech/courses/azure-frontier-girls). Uma honra estar com vocês nesta jornada.
 
 Agradeço a meus companheiros de vida pela inspiração constante.
 
