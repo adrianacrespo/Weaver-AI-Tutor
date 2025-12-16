@@ -1,4 +1,4 @@
-# Weaver – Azure AI Mentor Bot
+# Weaver – Azure AI Tutor Bot
 ## Overview
 Weaver é um agente dedicado a guiar estudantes e interessados em Azure e inteligência artificial. Oferece respostas atualizadas, adaptadas à experiência técnica do usuário. Envia respostas longas por email.
 
